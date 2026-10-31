@@ -23,7 +23,7 @@ Tenho interesse em desenvolvimento de software, programação e criação de sol
 
 ## 📂 Projetos em destaque
 
-Aqui esta um projeto que desenvolvi no primeiro semestre:
+Aqui esta um projeto que desenvolvi nesse semestre semestre:
 
 - **Projeto de um site sobre PetShop**: https://alvaroesttermariellemacedoalva-del.github.io/petlove-pet-shop/
 
