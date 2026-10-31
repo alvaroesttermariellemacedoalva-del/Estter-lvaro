@@ -15,7 +15,6 @@ Tenho interesse em desenvolvimento de software, programação e criação de sol
 ## 🛠️ Tecnologias e ferramentas
 
 **Conhecimentos e estudos:**
-
 - HTML
 - CSS
 - JavaScript
@@ -24,12 +23,11 @@ Tenho interesse em desenvolvimento de software, programação e criação de sol
 
 ## 📂 Projetos em destaque
 
-Aqui estão alguns projetos que estou desenvolvendo durante minha formação:
+Aqui esta um projeto que desenvolvi no primeiro semestre:
 
-- **Projeto de Banco de Dados:** criação e manipulação de bancos de dados utilizando SQL.
-- **Projeto Web:** desenvolvimento de páginas e aplicações utilizando HTML, CSS e JavaScript.
-- **Projetos acadêmicos:** atividades práticas desenvolvidas durante o curso de ADS.
+- **Projeto de um site sobre PetShop**: https://alvaroesttermariellemacedoalva-del.github.io/petlove-pet-shop/
 
+  
 ## 📈 No que estou trabalhando
 
 - Aprimorando minha lógica de programação.
