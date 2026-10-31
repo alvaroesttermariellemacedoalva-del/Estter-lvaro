@@ -1,16 +1,16 @@
-# Olá! 👋
+# Olá! 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha jornada na área de tecnologia.
+Eu me chamo Estter,sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha jornada na área de tecnologia.
 
 Tenho interesse em desenvolvimento de software, programação e criação de soluções que facilitem o dia a dia das pessoas.
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Aprendendo desenvolvimento e programação.
-- 🚀 Desenvolvendo projetos acadêmicos e pessoais.
-- 📚 Sempre buscando aprender novas tecnologias e ferramentas.
-- 🎯 Meu objetivo é evoluir como desenvolvedor e ganhar experiência na área.
+- Estudante de Análise e Desenvolvimento de Sistemas.
+- Aprendendo desenvolvimento e programação.
+- Desenvolvendo projetos acadêmicos e pessoais.
+- Sempre buscando aprender novas tecnologias e ferramentas.
+- Meu objetivo é evoluir como desenvolvedor e ganhar experiência na área.
 
 ## 🛠️ Tecnologias e ferramentas
 
